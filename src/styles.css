@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.tabs-container {
+  display: flex;
+}
+
+.tabs {
+  padding: 5px;
+  border: 1px solid black;
+  cursor: pointer;
+}
+
+.tab-container {
+  padding: 10px;
+  border: 1px solid black;
+  height: 100px;
+}
+
+.input-text {
+  margin: 5px;
+}
+
+button {
+  margin: 5px;
+  cursor: pointer;
+}
+
+.error {
+  color: red;
+}
